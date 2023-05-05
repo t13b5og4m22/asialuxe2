@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/asialuxe2/static/css/main.31d6cfe0.css",
+    "main.css": "/asialuxe2/static/css/main.918b0656.css",
     "main.js": "/asialuxe2/static/js/main.7afe06cb.js",
     "static/js/787.6a6355df.chunk.js": "/asialuxe2/static/js/787.6a6355df.chunk.js",
+    "static/media/PT-Root-UI_Medium.ttf": "/asialuxe2/static/media/PT-Root-UI_Medium.0133b1f6b0cf2181d0ba.ttf",
+    "static/media/PT-Root-UI_Bold.ttf": "/asialuxe2/static/media/PT-Root-UI_Bold.2d36200aa6fb76063e2b.ttf",
+    "static/media/PT-Root-UI_Regular.ttf": "/asialuxe2/static/media/PT-Root-UI_Regular.c685fce3b2cd5296b24c.ttf",
     "index.html": "/asialuxe2/index.html",
+    "main.918b0656.css.map": "/asialuxe2/static/css/main.918b0656.css.map",
     "main.7afe06cb.js.map": "/asialuxe2/static/js/main.7afe06cb.js.map",
     "787.6a6355df.chunk.js.map": "/asialuxe2/static/js/787.6a6355df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
+    "static/css/main.918b0656.css",
     "static/js/main.7afe06cb.js"
   ]
 }
