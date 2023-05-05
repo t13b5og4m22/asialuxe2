@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/asialuxe2/static/css/main.31d6cfe0.css",
+    "main.js": "/asialuxe2/static/js/main.7afe06cb.js",
+    "static/js/787.6a6355df.chunk.js": "/asialuxe2/static/js/787.6a6355df.chunk.js",
+    "index.html": "/asialuxe2/index.html",
+    "main.7afe06cb.js.map": "/asialuxe2/static/js/main.7afe06cb.js.map",
+    "787.6a6355df.chunk.js.map": "/asialuxe2/static/js/787.6a6355df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7afe06cb.js"
+  ]
+}
