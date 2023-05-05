@@ -1,0 +1,36 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    height: 74px;
+}
+
+.Header header {
+    width: 1170px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.Header header a > img {
+    height: 30px;
+}
+
+.Header header .header_right {
+    display: flex;
+    gap: 32px;
+}
+
+.Header header .header_right .BurgerMenu:hover {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1170px) {
+    .Header header {
+        width: calc(100% - 16px);
+        margin: 0 auto;
+    }
+    .Header header .header_right {
+        gap: 16px;
+    }
+}

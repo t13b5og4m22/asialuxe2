@@ -1,0 +1,50 @@
+.InputsAvia {
+    height: 60px;
+    background: #FFFFFF;
+    border: 1px solid #D5D9DE;
+    width: 1100px;
+    border-radius: 8px;
+    display: flex;
+}
+
+.InputsAvia:hover {
+    cursor: pointer;
+}
+
+.InputsAvia .input_aviaFrom {
+    width: 260px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    border-right: 1px solid #D5D9DE;
+}
+
+.InputsAvia .input_aviaFrom .plane1 {
+    width: 23px;
+}
+
+.InputsAvia .input_aviaFrom h4 {
+    font-size: 14px;
+    line-height: 18px;
+    color: rgba(51, 51, 51, 0.5);
+}
+
+.InputsAvia .input_aviaTo {
+    width: 260px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    border-right: 1px solid #D5D9DE;
+}
+
+.InputsAvia .input_aviaTo .plane2 {
+    width: 23px;
+}
+
+.InputsAvia .input_aviaTo h4 {
+    font-size: 14px;
+    line-height: 18px;
+    color: rgba(51, 51, 51, 0.5);
+}

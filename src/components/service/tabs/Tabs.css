@@ -1,0 +1,32 @@
+.Tabs {
+    width: 300px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    display: flex;
+    height: 24px;
+}
+
+.Tabs button {
+    width: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-family: 'PT Bold';
+    color: #3392FF;
+    border-radius: 8px;
+}
+
+.Tabs button.active {
+    width: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-family: 'PT Bold';
+    background-color: #3392FF;
+    color: #FFFFFF;
+    border-radius: 8px;
+}

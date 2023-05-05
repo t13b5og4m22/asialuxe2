@@ -1,31 +1,29 @@
-:root {
-  --primary-color: #3392FF;
-  --secondary-color: #CCE4FF;
-}
-
 /* PT-Root-UI_Bold.ttf */
 @font-face {
-    font-family: 'PT Root UI Bold';
+    font-family: 'PT Bold';
     src: url('../public/fonts/PT-Root-UI_Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
-  }
+}
+/* PT Root UI Bold */
   
 /* PT-Root-UI_Medium.ttf */
 @font-face {
-  font-family: 'PT Root UI Medium';
+  font-family: 'PT Medium';
   src: url('../public/fonts/PT-Root-UI_Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
+/* PT Root UI Medium */
 
 /* PT-Root-UI_Regular.ttf */
 @font-face {
-  font-family: 'PT Root UI Regular';
+  font-family: 'PT Regular';
   src: url('../public/fonts/PT-Root-UI_Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }  
+/* PT Root UI Regular */
 
 /* Reset all styles */
 
@@ -35,6 +33,10 @@
     box-sizing: border-box;
   }
   
+h1, h2, h3, h4, h5, h6 {
+  margin: 0!important;
+}
+
   /* Set default font size and family */
   
   html {

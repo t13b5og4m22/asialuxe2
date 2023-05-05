@@ -1,0 +1,21 @@
+.Service {
+    height: 154px;
+    background-color: #CCE4FF;
+    width: 1170px;
+    margin: 50px auto 0px auto;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    flex-direction: column;
+    gap: 30px;
+}
+
+@media screen and (max-width: 1170px) {
+    .Service {
+        height: auto;
+        width: calc(100% - 16px);
+        padding: 30px 0px;
+    }
+}
