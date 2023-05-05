@@ -1,0 +1,96 @@
+:root {
+  --primary-color: #3392FF;
+  --secondary-color: #CCE4FF;
+}
+
+/* PT-Root-UI_Bold.ttf */
+@font-face {
+    font-family: 'PT Root UI Bold';
+    src: url('../public/fonts/PT-Root-UI_Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+/* PT-Root-UI_Medium.ttf */
+@font-face {
+  font-family: 'PT Root UI Medium';
+  src: url('../public/fonts/PT-Root-UI_Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* PT-Root-UI_Regular.ttf */
+@font-face {
+  font-family: 'PT Root UI Regular';
+  src: url('../public/fonts/PT-Root-UI_Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}  
+
+/* Reset all styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set default font size and family */
+  
+  html {
+    font-size: 16px;
+    font-family: sans-serif;
+  }
+  
+  /* Remove list styles */
+  
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Remove underline from links */
+  
+  a {
+    text-decoration: none;
+  }
+  
+  /* Remove default button styles */
+  
+  button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  /* Remove default form field styles */
+  
+  input, textarea, select, button {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    -webkit-appearance: none;
+  }
+  
+  /* Set default box-sizing */
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  /* Add global box-sizing rules */
+  
+  html {
+    height: 100%;
+  }
+  
+  body {
+    min-height: 100%;
+  }
+  
